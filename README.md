@@ -76,6 +76,7 @@ sns.heatmap(data.corr(), annot=True)
 
 1. **Malignant Tumors**: Tend to have higher values for `area_mean` and `perimeter_mean`.
 2. **Benign Tumors**: Have relatively lower values for these features, indicating less aggressive tumor characteristics.
+![Observations](Snippets/(4).png)
 
 ## Model Selection and Evaluation
 
