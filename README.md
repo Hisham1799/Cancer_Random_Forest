@@ -63,6 +63,8 @@ Visualizing the data helps understand the distribution and relationships between
 
 1. **Boxplots**: Used to identify outliers and the distribution of variables like `radius_mean` and `area_mean`.
 2. **Scatter Plots**: Examined the relationship between `area_mean` and `perimeter_mean` for different diagnosis categories.
+![Examined the relationship between `area_mean` and `perimeter_mean` for different diagnosis categories](Snippets/ (1).png)
+
 3. **Heatmap**: Showed the correlation between features.
 
 ```python
