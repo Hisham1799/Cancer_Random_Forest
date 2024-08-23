@@ -154,6 +154,11 @@ print(f'Test accuracy: {accuracy:.4f}')
 
 4. Open the `Cancer_Diagnosis_Prediction.ipynb` file and execute the cells.
 
+## Screenshots
+![](Snippets/image1.png)
+![](Snippets/image2.png)
+![](Snippets/image3.png)
+
 ## References
 
 - Scikit-Learn Documentation: [Decision Tree Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html), [Random Forest Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
